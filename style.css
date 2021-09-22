@@ -53,6 +53,8 @@ resume_whole
     letter-spacing: 4px;
 }
 
+
+
 /******************
 resume_left
 *******************/
@@ -210,10 +212,14 @@ resume_interests
    text-align: center;
 }
 
-.wrapper .right .social-media .media-info .media-icon{
+.wrapper .right .social-media .media-info .media-icon {
      font-size: 38px;
-     color: #0175b2;
+     width: 0 auto;
      margin-bottom: 10px;
+}
+
+.wrapper .right .social-media .media-info .media-icon a{
+    color: #0175b2;
 }
 
 /******************
