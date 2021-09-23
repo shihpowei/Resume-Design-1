@@ -160,12 +160,12 @@ resume_right
 
 
 /******************
-resume_Education
+resume_Education & Experience
 *******************/
 
 .wrapper .right .data .year{
     padding-right: 35px;
-    width: 115px;
+    width: 130px;
     position: relative;
 }
 
@@ -187,7 +187,7 @@ resume_Education
     top: 17px;
     right: 4px;
     width: 3px;
-    height: 90%;
+    height: 100%;
     background: #0175b2;
 }
 
@@ -198,12 +198,11 @@ resume_Education
 .wrapper .right .data .content{
     padding-left: 35px;
     margin-bottom: 20px;
-    width: calc(100% - 115px);
+    width: calc(100% - 130px);
 }
     
-
 /******************
-resume_interests
+resume_social-media
 *******************/
 
 .wrapper .right .social-media .info{
